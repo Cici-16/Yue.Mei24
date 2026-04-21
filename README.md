@@ -3,7 +3,13 @@
 
 ## 1. Problem & Target User
 ### Research Question
-> Before and after the pandemic (2018-2019 is the pre-pandemic period, and 2021-2023 is the post-pandemic period), what changes and differences did the sales proportion of the three major categories of **Chinese daily necessities, electronic products, and home goods** purchased by American consumers through online channels show? Which type of goods has seen **the most significant increase or decrease** in preference? How has the epidemic affected **American consumers' choices of Chinese e-commerce products**?
+> Before and after the pandemic (2018-2019 is the pre-pandemic period, and 2021-2023 is the post-pandemic period), 
+
+>1 what changes and differences did the sales proportion of the three major categories of **Chinese daily necessities, electronic products, and home goods** purchased by American consumers through online channels show?
+
+>2 Which type of goods has seen **the most significant increase or decrease** in preference?
+
+>3 How has the epidemic affected **American consumers' choices of Chinese e-commerce products**?
 ### Research Background
 With the development of cross-border e-commerce, Chinese products have gradually entered the U.S. consumer market. Analyzing the preference changes of U.S. consumers for Chinese products can help cross-border e-commerce sellers optimize their product layout and marketing strategies.
 
