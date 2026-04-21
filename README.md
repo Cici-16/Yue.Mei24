@@ -14,7 +14,9 @@
 The COVID-19 pandemic accelerated the shift to online shopping globally, including in the U.S. At the same time, Chinese cross-border e-commerce products became more accessible. Understanding how U.S. consumers' preferences changed during this period can help sellers identify growth opportunities and optimize their product mix.
 
 ### Target User
-Cross-border e-commerce operation teams, international trade market analysts, and small and medium-sized Chinese export enterprises.
+Cross-border e-commerce operation teams (Chinese sellers targeting the U.S. market)
+- International trade market analysts
+- Small and medium-sized export enterprises
 
 ---
 
