@@ -20,7 +20,7 @@ Cross-border e-commerce operation teams (Chinese sellers targeting the U.S. mark
 
 ---
 
-## 2. Data Source
+## 2. Data Source& Key Varibles
 
 The data used in this project is secondary data collected from public global e-commerce reports and market research statistics. 
 
@@ -36,6 +36,14 @@ The data used in this project is secondary data collected from public global e-c
 ### Relevance
 This data is relevant to my research question because it provides year-by-year percentage shares of three product categories: daily necessities, electronic products, and home goods. These variables allow me to compare consumer preferences before and after the pandemic and identify clear trends in demand.Moreover, the supplementary domestic brand data helps further confirm that the growth of Chinese product share is not due to overall market expansion, but to real preference changes.
 
+### Key Variables
+| Variable Name | Definition | Data Type |
+|---------------|------------|-----------|
+| Year | Time dimension of the dataset (2018, 2019, 2021, 2022, 2023) | Numerical |
+| Time_Period | Categorical grouping for comparison: Pre-COVID (2018-2019) / Post-COVID (2021-2023) | Categorical |
+| Daily_Necessities_Share | Proportion of Chinese daily necessities in U.S. online sales (%) | Numerical |
+| Electronics_Share | Proportion of Chinese electronics in U.S. online sales (%) | Numerical |
+| Home_Goods_Share | Proportion of Chinese home goods in U.S. online sales (%) | Numerical |
 
 ---
 
