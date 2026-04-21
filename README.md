@@ -25,15 +25,17 @@ Cross-border e-commerce operation teams (Chinese sellers targeting the U.S. mark
 The data used in this project is secondary data collected from public global e-commerce reports and market research statistics. 
 
 ### Main sources include:
-1. Statista Global E-commerce Reports (2018–2023)
-2. eMarketer U.S. Cross-border Shopping Surveys
-3. Public sales share data from major U.S. online retail platforms (Amazon, eBay)
+1. Statista Global E-commerce Reports (2018–2023): Covers the share of Chinese consumer goods in U.S. online sales (daily necessities, electronics, home goods).
+2. eMarketer U.S. Cross-border Shopping Surveys: Includes consumer purchase frequency of Chinese cross-border products.
+3. Supplementary reference: U.S. Retail Federation data on domestic brand market share (used to verify preference shifts).
 
-The data covers the period from 2018 to 2023, which is divided into two groups: 
+>The data covers the period from 2018 to 2023, which is divided into two groups: 
 - Pre-COVID period: 2018–2019
 - Post-COVID period: 2021–2023
+ 
+### Relevance
+This data is relevant to my research question because it provides year-by-year percentage shares of three product categories: daily necessities, electronic products, and home goods. These variables allow me to compare consumer preferences before and after the pandemic and identify clear trends in demand.Moreover, the supplementary domestic brand data helps further confirm that the growth of Chinese product share is not due to overall market expansion, but to real preference changes.
 
-This data is relevant to my research question because it provides year-by-year percentage shares of three product categories: daily necessities, electronic products, and home goods. These variables allow me to compare consumer preferences before and after the pandemic and identify clear trends in demand.
 
 ---
 
