@@ -11,7 +11,7 @@
 
 >3 How has the epidemic affected **American consumers' choices of Chinese e-commerce products**?
 ### Research Background
-With the development of cross-border e-commerce, Chinese products have gradually entered the U.S. consumer market. Analyzing the preference changes of U.S. consumers for Chinese products can help cross-border e-commerce sellers optimize their product layout and marketing strategies.
+The COVID-19 pandemic accelerated the shift to online shopping globally, including in the U.S. At the same time, Chinese cross-border e-commerce products became more accessible. Understanding how U.S. consumers' preferences changed during this period can help sellers identify growth opportunities and optimize their product mix.
 
 ### Target User
 Cross-border e-commerce operation teams, international trade market analysts, and small and medium-sized Chinese export enterprises.
