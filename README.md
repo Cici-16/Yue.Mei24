@@ -5,7 +5,7 @@
 ### Research Question
 > Before and after the pandemic (2018-2019 is the pre-pandemic period, and 2021-2023 is the post-pandemic period), 
 
->1 what changes and differences did the sales proportion of the three major categories of **Chinese daily necessities, electronic products, and home goods** purchased by American consumers ?
+>1 what changes and differences did the sales proportion of the three major categories of **Chinese daily necessities, electronic products, and home goods** 加上品类编号 更加细化purchased by American consumers ?
 
 >2 Which type of goods has seen **the most significant increase or decrease** in preference?
 
@@ -64,20 +64,21 @@ This study adopts Python to establish a clear and reproducible analytical workfl
 4. **Interpretation**: Derive key insights from the visualisations.
 ---
 
-## 4. Key Findings & Interpretation贴合我的问题+python给的结论
+## 4. Key Findings & Interpretation
 From the analysis, three main conclusions are drawn:
-1.  **Home goods saw the most significant growth**, with average share increasing from ~5% pre-pandemic to ~12% post-pandemic. This aligns with the "stay-at-home economy" during lockdowns.
-2.  **Daily necessities remained stable**, with a slight increase from ~8% to ~10%. As essential goods, their demand was less volatile.
-3.  **Electronics grew steadily but at a slower pace**, from ~12% to ~15%, possibly due to increased competition from local brands.
+1. **Sales structure shifted from high concentration to relative balance**：Electronics dominated the sales mix before the pandemic. Post-pandemic, its share dropped slightly, while the shares of home goods and daily necessities rose moderately, driving the overall sales structure toward relative balance.
+2. **Category preference growth showed differentiated characteristics**：In terms of absolute growth scale, electronics registered the largest increase in consumer preference. In terms of growth trend reversal, home goods achieved the most remarkable turnaround, shifting from pre-pandemic decline to post-pandemic growth.
+3. **The pandemic reshaped U.S. consumers’ purchasing behavior toward Chinese goods**：The pandemic boosted U.S. consumers’ demand intensity for Chinese-made home goods and daily necessities, with purchase frequency rising significantly. Price preferences showed differentiation: daily necessities trended toward high-frequency, low-price purchases, while consumers were more willing to pay a premium for Chinese-made electronics and home goods, and overall demand tilted toward home-oriented essential products.
+   
+This study analyzes the changes in U.S. consumers’ preferences for Chinese-made daily necessities, electronics, and home goods before and after the pandemic. The results show that the sales structure shifted from being highly concentrated on electronics to relatively balanced; category preference growth was differentiated, with electronics leading in absolute growth and home goods achieving a notable turnaround from decline to growth. Meanwhile, the pandemic increased U.S. consumers’ demand intensity for Chinese-made home-oriented essential products and gave rise to differentiated price preferences.
 
-These findings suggest that home goods and daily necessities were more resilient and saw greater demand growth, while electronics faced stiffer competition.
 
 ---
 
 ## 5. How to Run the Project
 1.  Ensure Python (3.8+) with `pandas` and `matplotlib` is installed.
 2.  Download the `.ipynb` file and open it in Jupyter Notebook or VS Code.
-3.  Run all cells sequentially. The code will output 几个 charts and print key results.
+3.  Run all cells sequentially. The code will output five charts and print key results.
 4.  View the generated visualisations and insights.
 
 ---
