@@ -25,10 +25,7 @@ Cross-border  operation teams (Chinese sellers targeting the U.S. market)
 The data used in this project is secondary data collected from public global e-commerce reports and market research statistics. 
 
 ### Main sources include:
-1. Statista Global E-commerce Reports (2018–2023): Covers the share of Chinese consumer goods in U.S. online sales (daily necessities, electronics, home goods).
-2. eMarketer U.S. Cross-border Shopping Surveys: Includes consumer purchase frequency of Chinese cross-border products.
-3. Supplementary reference: U.S. Retail Federation data on domestic brand market share (used to verify preference shifts).
-
+ The 网址定义https://dataweb.usitc.gov/trade/search/Import/HTS 
 >The data covers the period from 2018 to 2023, which is divided into two groups: 
 - Pre-COVID period: 2018–2019
 - Post-COVID period: 2021–2023
@@ -44,22 +41,22 @@ This data is relevant to my research question because it provides year-by-year p
 | Daily_Necessities_Share | Proportion of Chinese daily necessities in U.S. online sales (%) | Numerical |
 | Electronics_Share | Proportion of Chinese electronics in U.S. online sales (%) | Numerical |
 | Home_Goods_Share | Proportion of Chinese home goods in U.S. online sales (%) | Numerical |
-| 
+| 上面三个合并 加上其他数据
 ---
 
 
 ## 3. Python Implementation & Workflow
 The analysis follows a clear, reproducible workflow using Python:
 1.  **Data Organisation**: Input the collected data into a pandas DataFrame.
-2.  **Preprocessing**: Categorise data into pre- and post-pandemic periods and calculate average shares.
-3.  **Visualisation**:
+2.  **Preprocessing**: Categorise data into pre- and post-pandemic periods and calculate average shares.数据处理分析
+3.  **Visualisation**:把所有图放上去
     - A line chart showing trends in product share over time.
     - A bar chart comparing average share before and after the pandemic.
 4.  **Interpretation**: Derive key insights from the visualisations.
 
 ---
 
-## 4. Key Findings & Interpretation
+## 4. Key Findings & Interpretation贴合我的问题+python给的结论
 From the analysis, three main conclusions are drawn:
 1.  **Home goods saw the most significant growth**, with average share increasing from ~5% pre-pandemic to ~12% post-pandemic. This aligns with the "stay-at-home economy" during lockdowns.
 2.  **Daily necessities remained stable**, with a slight increase from ~8% to ~10%. As essential goods, their demand was less volatile.
@@ -72,7 +69,7 @@ These findings suggest that home goods and daily necessities were more resilient
 ## 5. How to Run the Project
 1.  Ensure Python (3.8+) with `pandas` and `matplotlib` is installed.
 2.  Download the `.ipynb` file and open it in Jupyter Notebook or VS Code.
-3.  Run all cells sequentially. The code will output two charts and print key results.
+3.  Run all cells sequentially. The code will output 几个 charts and print key results.
 4.  View the generated visualisations and insights.
 
 ---
