@@ -25,7 +25,9 @@ Cross-border  operation teams (Chinese sellers targeting the U.S. market)
 The data used in this project is secondary data collected from public global e-commerce reports and market research statistics. 
 
 ### Main sources include:
- The 网址定义https://dataweb.usitc.gov/trade/search/Import/HTS 
+1 The official data platform of the USITC, providing public inquiry services for U.S. official import and export statistics.
+https://dataweb.usitc.gov/trade/search/Import/HTS
+2.客单价和购买频次 
 >The data covers the period from 2018 to 2023, which is divided into two groups: 
 - Pre-COVID period: 2018–2019
 - Post-COVID period: 2021–2023
@@ -38,10 +40,14 @@ This data is relevant to my research question because it provides year-by-year p
 |---------------|------------|-----------|
 | Year | Time dimension of the dataset (2018, 2019, 2021, 2022, 2023) | Numerical |
 | Time_Period | Categorical grouping for comparison: Pre-COVID (2018-2019) / Post-COVID (2021-2023) | Categorical |
-| Daily_Necessities_Share | Proportion of Chinese daily necessities in U.S. online sales (%) | Numerical |
-| Electronics_Share | Proportion of Chinese electronics in U.S. online sales (%) | Numerical |
-| Home_Goods_Share | Proportion of Chinese home goods in U.S. online sales (%) | Numerical |
-| 上面三个合并 加上其他数据
+| Category | Product category | Object |
+| Category_Share| Market share of each category (%) | Numerical |
+| Category_Sales| Annual sales of each category | Numerical |
+| Year_Sales | Sales of each category by year | Numerical |
+| Freq_Pre |	Purchase frequency before COVID |	Numerical |
+| Freq_Post | Purchase frequency after COVID |	Numerical |
+| AOV_Pre |	Average order value before COVID	| Numerical |
+| AOV_Post |	Average order value after COVID	| Numerical |
 ---
 
 
