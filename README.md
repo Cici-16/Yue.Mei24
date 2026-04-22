@@ -1,20 +1,20 @@
 # ACC102 Mini Assignment - Track 2
-# Analysis of U.S. Consumers' Preference Changes for Chinese E-commerce Products (Pre & Post COVID-19)
+# Analysis of U.S. Consumers' Preference Changes for Chinese  Products (Pre & Post COVID-19)
 
 ## 1. Problem & Target User
 ### Research Question
 > Before and after the pandemic (2018-2019 is the pre-pandemic period, and 2021-2023 is the post-pandemic period), 
 
->1 what changes and differences did the sales proportion of the three major categories of **Chinese daily necessities, electronic products, and home goods** purchased by American consumers through online channels show?
+>1 what changes and differences did the sales proportion of the three major categories of **Chinese daily necessities, electronic products, and home goods** purchased by American consumers ?
 
 >2 Which type of goods has seen **the most significant increase or decrease** in preference?
 
->3 How has the epidemic affected **American consumers' choices of Chinese e-commerce products**?
+>3 How has the epidemic affected **American consumers' choices of Chinese  products**?
 ### Research Background
-The COVID-19 pandemic accelerated the shift to online shopping globally, including in the U.S. At the same time, Chinese cross-border e-commerce products became more accessible. Understanding how U.S. consumers' preferences changed during this period can help sellers identify growth opportunities and optimize their product mix.
+The COVID-19 pandemic accelerated the shift to online shopping globally, including in the U.S. At the same time, Chinese cross-border  products became more accessible. Understanding how U.S. consumers' preferences changed during this period can help sellers identify growth opportunities and optimize their product mix.
 
 ### Target User
-Cross-border e-commerce operation teams (Chinese sellers targeting the U.S. market)
+Cross-border  operation teams (Chinese sellers targeting the U.S. market)
 - International trade market analysts
 - Small and medium-sized export enterprises
 
@@ -44,7 +44,7 @@ This data is relevant to my research question because it provides year-by-year p
 | Daily_Necessities_Share | Proportion of Chinese daily necessities in U.S. online sales (%) | Numerical |
 | Electronics_Share | Proportion of Chinese electronics in U.S. online sales (%) | Numerical |
 | Home_Goods_Share | Proportion of Chinese home goods in U.S. online sales (%) | Numerical |
-
+| 
 ---
 
 
@@ -90,7 +90,7 @@ These findings suggest that home goods and daily necessities were more resilient
 
 ---
 
-## 7. Reflection & AI Disclosure
+## 7. Reflection & AI Disclosure 如果扩写要附件
 This project allowed me to apply Python for data analysis to a real-world business problem. I learned how to structure a complete data workflow, from defining the problem to interpreting the results. I also gained a better understanding of how external events like a pandemic can reshape consumer preferences.
 
 **AI Disclosure**: I used AI tools to help with grammar and sentence structure in the README and video script. All research questions, analysis logic, and conclusions are my own.
