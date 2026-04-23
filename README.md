@@ -1,8 +1,18 @@
 # ACC102 Mini Assignment - Track 2
-# Analysis of U.S. Consumers' Preference Changes for Chinese  Products (Pre & Post COVID-19)
-
+## US Imports from China – 20-Year Trend Analysis (2004–2024)
 ## 1. Problem & Target User
 ### Research Question
+How have the value and structure of U.S. imports from China changed across three product categories (Necessities, Home Goods, Electronics) over the 20-year period 2004–2024?
+>1 What is the overall trend of total US imports from China over the 20‑year period?
+>2 How do annual import values compare across the three product categories?
+>3 How has the share structure of the three categories changed (which categories have become more/less important)?
+>4 How do growth rates and fluctuations compare across the three categories?
+>5 How do the 20‑year cumulative import totals compare across the three categories?
+### Target Users: 
+Business analysts, trade researchers, students studying international trade and consumer demand.
+
+
+
 > Before and after the pandemic (2018-2019 is the pre-pandemic period, and 2021-2023 is the post-pandemic period), 
 
 >1 what changes and differences did the sales proportion of the three major categories of **Chinese daily necessities, electronic products, and home goods** 加上品类编号 更加细化purchased by American consumers ?
