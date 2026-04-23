@@ -26,14 +26,13 @@ The data used in this project is secondary data collected from public global e-c
 
 ### Main sources include:
 1 The official data platform of the USITC, providing public inquiry services for U.S. official import and export statistics.https://dataweb.usitc.gov/trade/search/Import/HTS
-2.客单价和购买频次 
+2. 客单价和购买频次 
 >The data covers the period from 2018 to 2023, which is divided into two groups: 
 - Pre-COVID period: 2018–2019
 - Post-COVID period: 2021–2023
  
 ### Relevance
-This data is relevant to my research question because it provides year-by-year percentage shares of three product categories: daily necessities, electronic products, and home goods. These variables allow me to compare consumer preferences before and after the pandemic and identify clear trends in demand.Moreover, the supplementary domestic brand data helps further confirm that the growth of Chinese product share is not due to overall market expansion, but to real preference changes.
-
+This data is relevant to my research question because it provides year-by-year percentage shares of three product categories: daily necessities, electronic products, and home goods. These variables allow me to compare consumer preferences before and after the pandemic and identify clear trends in demand.
 ### Key Variables
 | Variable Name | Definition | Data Type |
 |---------------|------------|-----------|
