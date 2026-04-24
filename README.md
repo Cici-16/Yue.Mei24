@@ -45,7 +45,7 @@ This data is relevant to my research question because it provides year-by-year i
 
 ---
 ## 4. Key Findings 
-From the analysis, three main conclusions are drawn:
+From the analysis, main conclusions are drawn:
 
 1.The total value of U.S. imports from China presents a steady long-term upward trend.
 
@@ -63,7 +63,7 @@ From the analysis, three main conclusions are drawn:
 ## 5. How to Run the Project
 1.  Ensure Python (3.8+) with `pandas` and `matplotlib` is installed.
 2.  Download the `.ipynb` file and open it in Jupyter Notebook or VS Code.
-3.  Run all cells sequentially. The code will output five charts and print key results.
+3.  Run all cells sequentially. The code will output six charts and print key results.
 4.  View the generated visualisations and insights.
 
 ---
@@ -74,13 +74,13 @@ From the analysis, three main conclusions are drawn:
 ---
 ## 7. Limitations & Future Improvements
 ### Limitations
-- The data is aggregated from public reports and lacks granularity by consumer demographics.
-- The analysis does not account for external factors like tariffs or shipping costs.
-- The year 2020 is excluded, which omits the initial impact of the pandemic.
+- The analysis only uses import value without adjusting for inflation, which may overestimate real growth.
+- Product categories are aggregated at the HTS 2-digit level, lacking granularity for sub-category insights.
+- External factors (e.g., exchange rates, trade policies) are not incorporated into the quantitative analysis.
 ### Improvements
-- Add 2020 data to capture the immediate effects of the pandemic.
-- Include price sensitivity analysis to understand the role of cost in consumer choices.
-- Compare Chinese vs. non-Chinese product performance to isolate the "China factor".
+- Incorporate inflation data to adjust import values and reflect real market changes.
+-Use HTS 6-digit codes for sub-category analysis to uncover niche market trends.
+-Add regression analysis to quantify the impact of external factors on import fluctuations.
 
 ---
 ## 8. Reflection & AI Disclosure 如果扩写要附件
