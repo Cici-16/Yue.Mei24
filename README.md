@@ -79,6 +79,4 @@ From the analysis, main conclusions are drawn:
 
 ---
 
-**AI Disclosure**: I used AI tools to help with grammar and sentence structure in the README and video script. All research questions, analysis logic, and conclusions are my own.
 
----
