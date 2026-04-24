@@ -13,7 +13,11 @@ How have the value and structure of U.S. imports from China changed across three
 
 >5 How do the 20‑year cumulative import totals compare across the three categories?
 ### Target Users: 
-1111111Business analysts, trade researchers, students studying international trade and consumer demand.
+Trade analysts and policy researchers
+
+Market researchers analyzing U.S. consumer demand for Chinese goods
+
+Importers and retail businesses interested in category trends
 
 ---
 ## 2. Data Source& Key Varibles
@@ -66,21 +70,15 @@ This study analyzes the changes in U.S. consumers’ preferences for Chinese-mad
 - The data is aggregated from public reports and lacks granularity by consumer demographics.
 - The analysis does not account for external factors like tariffs or shipping costs.
 - The year 2020 is excluded, which omits the initial impact of the pandemic.
-
 ### Improvements
 - Add 2020 data to capture the immediate effects of the pandemic.
 - Include price sensitivity analysis to understand the role of cost in consumer choices.
 - Compare Chinese vs. non-Chinese product performance to isolate the "China factor".
 
 ---
-
 ## 8. Reflection & AI Disclosure 如果扩写要附件
 This project allowed me to apply Python for data analysis to a real-world business problem. I learned how to structure a complete data workflow, from defining the problem to interpreting the results. I also gained a better understanding of how external events like a pandemic can reshape consumer preferences.
 
 **AI Disclosure**: I used AI tools to help with grammar and sentence structure in the README and video script. All research questions, analysis logic, and conclusions are my own.
 
 ---
-
-## 8. Links
-- Project Repository: `[Your GitHub Repo Link]`
-- Demo Video: `[Your Video Link]`
