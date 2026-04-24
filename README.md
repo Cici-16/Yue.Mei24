@@ -46,6 +46,7 @@ This data is relevant to my research question because it provides year-by-year i
 ---
 ## 4. Key Findings 
 From the analysis, three main conclusions are drawn:
+
 1.The total value of U.S. imports from China presents a steady long-term upward trend.
 
 2.Electronics is the dominant category with the most rapid growth.
@@ -57,20 +58,7 @@ From the analysis, three main conclusions are drawn:
 5.Electronics contributes the largest cumulative import value over two decades.
 
 6.Electronics records the highest CAGR, reflecting strong long-term growth potential.
-
-
-
-
-
-
-
-用英文总结一下美国从中国进口的商品结构
-把美国从中国进口商品的总价值趋势用图表展示出来
-美国从中国进口商品的增长趋势对中国经济有什么影响？
-
-
    
-
 ---
 ## 5. How to Run the Project
 1.  Ensure Python (3.8+) with `pandas` and `matplotlib` is installed.
