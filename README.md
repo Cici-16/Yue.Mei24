@@ -22,6 +22,7 @@ Importers and retail businesses interested in category trends
 ## 2. Data Source& Key Varibles
 ### Dataset information:
 - Source: US Customs DataWeb (Import Statistics)
+- https://dataweb.usitc.gov/trade/search/Import/HTS
 - Time range: 2004 – 2024 (20 years)
  ### Relevance
 This data is relevant to my research question because it provides year-by-year import value  of three product categories: daily necessities, electronic products, and home goods. These variables allow me to compare consumer preferences .
