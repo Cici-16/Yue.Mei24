@@ -68,8 +68,8 @@ From the analysis, main conclusions are drawn:
 
 ---
 ## 6. Links
-- Project Repository: `[Your GitHub Repo Link]`
-- Demo Video: `[Your Video Link]`
+- Project Repository: 
+
 
 ---
 ## 7. Reflection
