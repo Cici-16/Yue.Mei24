@@ -67,12 +67,7 @@ From the analysis, main conclusions are drawn:
 4.  View the generated visualisations and insights.
 
 ---
-## 6. Links
-- Project Repository: https://github.com/Cici-16/Yue.Mei24
-
-
----
-## 7. Reflection
+## 6. Reflection
 ### Limitations
 - The analysis only uses import value without adjusting for inflation, which may overestimate real growth.
 - Product categories are aggregated at the HTS 2-digit level, lacking granularity for sub-category insights.
