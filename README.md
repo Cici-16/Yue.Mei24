@@ -72,7 +72,7 @@ From the analysis, main conclusions are drawn:
 - Demo Video: `[Your Video Link]`
 
 ---
-## 7. Limitations & Future Improvements
+## 7. Reflection
 ### Limitations
 - The analysis only uses import value without adjusting for inflation, which may overestimate real growth.
 - Product categories are aggregated at the HTS 2-digit level, lacking granularity for sub-category insights.
@@ -83,8 +83,6 @@ From the analysis, main conclusions are drawn:
 -Add regression analysis to quantify the impact of external factors on import fluctuations.
 
 ---
-## 8. Reflection & AI Disclosure 如果扩写要附件
-This project allowed me to apply Python for data analysis to a real-world business problem. I learned how to structure a complete data workflow, from defining the problem to interpreting the results. I also gained a better understanding of how external events like a pandemic can reshape consumer preferences.
 
 **AI Disclosure**: I used AI tools to help with grammar and sentence structure in the README and video script. All research questions, analysis logic, and conclusions are my own.
 
