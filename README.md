@@ -11,7 +11,6 @@ How have the value and structure of U.S. imports from China changed across three
 
 >4 How do growth rates and fluctuations compare across the three categories?
 
->5 How do the 20‑year cumulative import totals compare across the three categories?
 ### Target Users: 
 Trade analysts and policy researchers
 
