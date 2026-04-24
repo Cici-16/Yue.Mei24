@@ -4,9 +4,13 @@
 ### Research Question
 How have the value and structure of U.S. imports from China changed across three product categories (Necessities, Home Goods, Electronics) over the 20-year period 2004–2024?
 >1 What is the overall trend of total US imports from China over the 20‑year period?
+
 >2 How do annual import values compare across the three product categories?
+
 >3 How has the share structure of the three categories changed (which categories have become more/less important)?
+
 >4 How do growth rates and fluctuations compare across the three categories?
+
 >5 How do the 20‑year cumulative import totals compare across the three categories?
 ### Target Users: 
 1111111Business analysts, trade researchers, students studying international trade and consumer demand.
@@ -14,14 +18,12 @@ How have the value and structure of U.S. imports from China changed across three
 ---
 
 ## 2. Data Source& Key Varibles
-
-
 ### Dataset information:
 - Source: US Customs DataWeb (Import Statistics)
 - Time range: 2004 – 2024 (20 years)
  
 ### Relevance
-This data is relevant to my research question because it provides year-by-year percentage shares of three product categories: daily necessities, electronic products, and home goods. These variables allow me to compare consumer preferences .
+This data is relevant to my research question because it provides year-by-year import value  of three product categories: daily necessities, electronic products, and home goods. These variables allow me to compare consumer preferences .
 ### Key Variables
  Years,Category,Import Value,Growth Rate,Cumulative Value
 ---
@@ -31,6 +33,13 @@ This data is relevant to my research question because it provides year-by-year p
 - **Data Cleaning**: Handle missing values, remove duplicates, filter by year and category, standardize formats
 - **Analysis**: Descriptive statistics, group calculation by year / category, long-term trend comparison, structural share analysis
 - **Visualization**: Plot trend charts, proportion charts, and category comparison charts with matplotlib / seaborn
+### Key Visualizations
+1. Total import trend (line chart)
+2. Three-category annual trend comparison (line chart)
+3. Category share: 2004 vs 2024 (pie charts)
+4. Annual growth rate comparison (line chart)
+5. 20-year cumulative import value (horizontal bar chart)
+
 
 
 
