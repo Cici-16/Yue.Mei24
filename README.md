@@ -16,18 +16,16 @@ How have the value and structure of U.S. imports from China changed across three
 1111111Business analysts, trade researchers, students studying international trade and consumer demand.
 
 ---
-
 ## 2. Data Source& Key Varibles
 ### Dataset information:
 - Source: US Customs DataWeb (Import Statistics)
 - Time range: 2004 – 2024 (20 years)
- 
-### Relevance
+ ### Relevance
 This data is relevant to my research question because it provides year-by-year import value  of three product categories: daily necessities, electronic products, and home goods. These variables allow me to compare consumer preferences .
 ### Key Variables
  Years,Category,Import Value,Growth Rate,Cumulative Value
----
 
+---
 ## 3. Python Methods
 - **Data Loading**: Read and merge multi-source datasets with pandas
 - **Data Cleaning**: Handle missing values, remove duplicates, filter by year and category, standardize formats
@@ -41,7 +39,6 @@ This data is relevant to my research question because it provides year-by-year i
 5. 20-year cumulative import value (horizontal bar chart)
 
 ---
-
 ## 4. Key Findings & Interpretation
 From the analysis, three main conclusions are drawn:
 1. **Sales structure shifted from high concentration to relative balance**：Electronics dominated the sales mix before the pandemic. Post-pandemic, its share dropped slightly, while the shares of home goods and daily necessities rose moderately, driving the overall sales structure toward relative balance.
@@ -52,7 +49,6 @@ This study analyzes the changes in U.S. consumers’ preferences for Chinese-mad
 
 
 ---
-
 ## 5. How to Run the Project
 1.  Ensure Python (3.8+) with `pandas` and `matplotlib` is installed.
 2.  Download the `.ipynb` file and open it in Jupyter Notebook or VS Code.
@@ -60,8 +56,12 @@ This study analyzes the changes in U.S. consumers’ preferences for Chinese-mad
 4.  View the generated visualisations and insights.
 
 ---
+## 6. Links
+- Project Repository: `[Your GitHub Repo Link]`
+- Demo Video: `[Your Video Link]`
 
-## 6. Limitations & Future Improvements
+---
+## 7. Limitations & Future Improvements
 ### Limitations
 - The data is aggregated from public reports and lacks granularity by consumer demographics.
 - The analysis does not account for external factors like tariffs or shipping costs.
@@ -74,7 +74,7 @@ This study analyzes the changes in U.S. consumers’ preferences for Chinese-mad
 
 ---
 
-## 7. Reflection & AI Disclosure 如果扩写要附件
+## 8. Reflection & AI Disclosure 如果扩写要附件
 This project allowed me to apply Python for data analysis to a real-world business problem. I learned how to structure a complete data workflow, from defining the problem to interpreting the results. I also gained a better understanding of how external events like a pandemic can reshape consumer preferences.
 
 **AI Disclosure**: I used AI tools to help with grammar and sentence structure in the README and video script. All research questions, analysis logic, and conclusions are my own.
