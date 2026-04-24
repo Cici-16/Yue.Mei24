@@ -41,16 +41,35 @@ This data is relevant to my research question because it provides year-by-year i
 3. Category share: 2004 vs 2024 (pie charts)
 4. Annual growth rate comparison (line chart)
 5. 20-year cumulative import value (horizontal bar chart)
+6. CAGR (2004–2024) by Category(horizontal bar chart)
 
 ---
-## 4. Key Findings & Interpretation
+## 4. Key Findings 
 From the analysis, three main conclusions are drawn:
-1. **Sales structure shifted from high concentration to relative balance**：Electronics dominated the sales mix before the pandemic. Post-pandemic, its share dropped slightly, while the shares of home goods and daily necessities rose moderately, driving the overall sales structure toward relative balance.
-2. **Category preference growth showed differentiated characteristics**：In terms of absolute growth scale, electronics registered the largest increase in consumer preference. In terms of growth trend reversal, home goods achieved the most remarkable turnaround, shifting from pre-pandemic decline to post-pandemic growth.
-3. **The pandemic reshaped U.S. consumers’ purchasing behavior toward Chinese goods**：The pandemic boosted U.S. consumers’ demand intensity for Chinese-made home goods and daily necessities, with purchase frequency rising significantly. Price preferences showed differentiation: daily necessities trended toward high-frequency, low-price purchases, while consumers were more willing to pay a premium for Chinese-made electronics and home goods, and overall demand tilted toward home-oriented essential products.
-   
-This study analyzes the changes in U.S. consumers’ preferences for Chinese-made daily necessities, electronics, and home goods before and after the pandemic. The results show that the sales structure shifted from being highly concentrated on electronics to relatively balanced; category preference growth was differentiated, with electronics leading in absolute growth and home goods achieving a notable turnaround from decline to growth. Meanwhile, the pandemic increased U.S. consumers’ demand intensity for Chinese-made home-oriented essential products and gave rise to differentiated price preferences.
+1.The total value of U.S. imports from China presents a steady long-term upward trend.
 
+2.Electronics is the dominant category with the most rapid growth.
+
+3.The import structure has gradually shifted to electronics-oriented consumption.
+
+4.All product categories show similar growth fluctuations, and home goods are more volatile.
+
+5.Electronics contributes the largest cumulative import value over two decades.
+
+6.Electronics records the highest CAGR, reflecting strong long-term growth potential.
+
+
+
+
+
+
+
+用英文总结一下美国从中国进口的商品结构
+把美国从中国进口商品的总价值趋势用图表展示出来
+美国从中国进口商品的增长趋势对中国经济有什么影响？
+
+
+   
 
 ---
 ## 5. How to Run the Project
