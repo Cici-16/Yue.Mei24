@@ -79,8 +79,8 @@ From the analysis, main conclusions are drawn:
 - External factors (e.g., exchange rates, trade policies) are not incorporated into the quantitative analysis.
 ### Improvements
 - Incorporate inflation data to adjust import values and reflect real market changes.
--Use HTS 6-digit codes for sub-category analysis to uncover niche market trends.
--Add regression analysis to quantify the impact of external factors on import fluctuations.
+- Use HTS 6-digit codes for sub-category analysis to uncover niche market trends.
+- Add regression analysis to quantify the impact of external factors on import fluctuations.
 
 ---
 
