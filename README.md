@@ -40,20 +40,6 @@ This data is relevant to my research question because it provides year-by-year i
 4. Annual growth rate comparison (line chart)
 5. 20-year cumulative import value (horizontal bar chart)
 
-
-
-
-## 3. Python Implementation & Workflow
-This study adopts Python to establish a clear and reproducible analytical workflow, with the following steps:
-1. **Data Organisation**:Input the collected annual sales data of three product categories  (daily necessities, electronics, and home goods) into a pandas DataFrame to build a structured analytical dataset.
-2. **Data Preprocessing**:Categorise the data into pre-pandemic and post-pandemic periods, and calculate the average share of each category across the two phases. Additionally, compute the year-on-year growth rate and absolute sales increment to quantify the changes in consumer preferences.
-3. **Data Visualisation**:Generate a series of visualisations to intuitively present the analytical results:
-  - A line chart showing the annual trend of category market share
-  - A bar chart comparing the average category share before and after the pandemic
-  - A bar chart comparing the absolute sales increment of each category across the two periods
-  - A bar chart comparing the changes in purchase frequency before and after the pandemic
-  - A bar chart comparing the changes in average order value before and after the pandemic
-4. **Interpretation**: Derive key insights from the visualisations.
 ---
 
 ## 4. Key Findings & Interpretation
