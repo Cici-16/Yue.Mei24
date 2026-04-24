@@ -9,54 +9,29 @@ How have the value and structure of U.S. imports from China changed across three
 >4 How do growth rates and fluctuations compare across the three categories?
 >5 How do the 20‑year cumulative import totals compare across the three categories?
 ### Target Users: 
-Business analysts, trade researchers, students studying international trade and consumer demand.
-
-
-
-> Before and after the pandemic (2018-2019 is the pre-pandemic period, and 2021-2023 is the post-pandemic period), 
-
->1 what changes and differences did the sales proportion of the three major categories of **Chinese daily necessities, electronic products, and home goods** 加上品类编号 更加细化purchased by American consumers ?
-
->2 Which type of goods has seen **the most significant increase or decrease** in preference?
-
->3 How has the epidemic affected **American consumers' choices of Chinese  products**?
-### Research Background
-The COVID-19 pandemic accelerated the shift to online shopping globally, including in the U.S. At the same time, Chinese cross-border  products became more accessible. Understanding how U.S. consumers' preferences changed during this period can help sellers identify growth opportunities and optimize their product mix.
-
-### Target User
-Cross-border  operation teams (Chinese sellers targeting the U.S. market)
-- International trade market analysts
-- Small and medium-sized export enterprises
+1111111Business analysts, trade researchers, students studying international trade and consumer demand.
 
 ---
 
 ## 2. Data Source& Key Varibles
 
-The data used in this project is secondary data collected from public global e-commerce reports and market research statistics. 
 
-### Main sources include:
-1 The official data platform of the USITC, providing public inquiry services for U.S. official import and export statistics.https://dataweb.usitc.gov/trade/search/Import/HTS
-2. 客单价和购买频次 
->The data covers the period from 2018 to 2023, which is divided into two groups: 
-- Pre-COVID period: 2018–2019
-- Post-COVID period: 2021–2023
+### Dataset information:
+- Source: US Customs DataWeb (Import Statistics)
+- Time range: 2004 – 2024 (20 years)
  
 ### Relevance
-This data is relevant to my research question because it provides year-by-year percentage shares of three product categories: daily necessities, electronic products, and home goods. These variables allow me to compare consumer preferences before and after the pandemic and identify clear trends in demand.
+This data is relevant to my research question because it provides year-by-year percentage shares of three product categories: daily necessities, electronic products, and home goods. These variables allow me to compare consumer preferences .
 ### Key Variables
-| Variable Name | Definition | Data Type |
-|---------------|------------|-----------|
-| Year | Time dimension of the dataset (2018, 2019, 2021, 2022, 2023) | Numerical |
-| Time_Period | Categorical grouping for comparison: Pre-COVID (2018-2019) / Post-COVID (2021-2023) | Categorical |
-| Category | Product category | Object |
-| Category_Share| Market share of each category (%) | Numerical |
-| Category_Sales| Annual sales of each category | Numerical |
-| Year_Sales | Sales of each category by year | Numerical |
-| Freq_Pre |	Purchase frequency before COVID |	Numerical |
-| Freq_Post | Purchase frequency after COVID |	Numerical |
-| AOV_Pre |	Average order value before COVID	| Numerical |
-| AOV_Post |	Average order value after COVID	| Numerical |
+ Years,Category,Import Value,Growth Rate,Cumulative Value
 ---
+
+## 3. Python Methods
+- **Data Loading**: Read and merge multi-source datasets with pandas
+- **Data Cleaning**: Handle missing values, remove duplicates, filter by year and category, standardize formats
+- **Analysis**: Descriptive statistics, group calculation by year / category, long-term trend comparison, structural share analysis
+- **Visualization**: Plot trend charts, proportion charts, and category comparison charts with matplotlib / seaborn
+
 
 
 ## 3. Python Implementation & Workflow
